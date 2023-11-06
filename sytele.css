@@ -1,11 +1,11 @@
 body {
     background-color: #000;
     color: #fff;
-    font-family: Arial, sans-serif; /* Replace with your desired modern minimalist font. */
+    font-family: Arial, sans-serif; 
 }
 
 header {
-    background-color: #333; /* A slightly lighter background for the header. */
+    background-color: #333; 
     text-align: center;
     padding: 20px 0;
 }
