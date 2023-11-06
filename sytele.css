@@ -53,3 +53,10 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
+
+.container {
+    width: 300px; 
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+}
