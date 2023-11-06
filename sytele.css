@@ -6,7 +6,7 @@ body, h1, h2, p {
 /* Basic styling */
 body {
     font-family: Didot;
-    background-color: #f0f0f0;
+    background-color: #000000;
     margin: 20px;
 }
 
@@ -30,7 +30,7 @@ nav li {
 }
 
 nav a {
-    color: #fff;
+    color: #000000;
     text-decoration: none;
 }
 
