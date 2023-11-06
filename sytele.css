@@ -3,26 +3,24 @@ body, h1, p {
     padding: 0;
 }
 
-/* Apply black background and white text color */
 body {
     background-color: #000000;
     color: #ffffff;
-    font-family: Arial, Helvetica, sans-serif; /* Use a modern and minimalist font family */
+    font-family: Arial, Helvetica, sans-serif; 
 }
 
-/* Style headings with a minimalist font */
 h1, h2, h3 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Example minimalist fonts */
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
     font-weight: bold;
 }
 
-/* Apply some basic styling to links */
+
 a {
-    color: #ffffff; /* White link color */
-    text-decoration: none; /* Remove underlines from links */
+    color: #ffffff; 
+    text-decoration: none; 
 }
 
-/* Define a style for a container to center content */
+
 .container {container-type: center;}
     width: 80%;
     max-width: 1200px;
