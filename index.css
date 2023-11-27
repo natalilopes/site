@@ -1,11 +1,11 @@
 body {
-    background-color: #000;
+    background-color: #414141;
     color: #ffffff;
 
 }
 
 header {
-    background-color: #333; 
+    background-color: 414141; 
     text-align: center;
     padding: 20px 0;
 }
@@ -15,7 +15,7 @@ h1 {
 }
 
 nav {
-    background-color: #333;
+    background-color: #414141;
     text-align: center;
     padding: 10px 0;
 }
@@ -49,7 +49,7 @@ h2 {
 }
 
 footer {
-    background-color: #494949;
+    background-color: navy;
     text-align: center;
     padding: 10px 0;
 }
