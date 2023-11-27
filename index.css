@@ -1,3 +1,62 @@
-body{
-    background-color: hotpink;
+ody {
+    background-color: #000;
+    color: #000000;
+    font-family: Arial, sans-serif; 
+}
+
+header {
+    background-color: #333; 
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+nav {
+    background-color: #333;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+footer {
+    background-color: #333;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.container {
+    width: 300px; 
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
 }
