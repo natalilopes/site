@@ -1,6 +1,6 @@
 body {
     background-color: #000;
-    color: #000000;
+    color: #ffffff;
     font-family: Arial, sans-serif; 
 }
 
@@ -49,7 +49,7 @@ h2 {
 }
 
 footer {
-    background-color: #dd4141;
+    background-color: #494949;
     text-align: center;
     padding: 10px 0;
 }
